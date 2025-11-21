@@ -1,7 +1,7 @@
-<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="420" height="120" rx="12" fill="#0A0A0A" />
-  <text x="50%" y="50%" fill="#ffffff" font-size="34" font-family="Sans-serif" dy=".35em"
-    text-anchor="middle">
+<svg width="420" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="18" fill="#070707" />
+  <text x="50%" y="50%" fill="#00ffaa" font-size="36" dy=".35em" text-anchor="middle"
+    font-family="Inter, sans-serif">
     use-chain-status
   </text>
 </svg>
