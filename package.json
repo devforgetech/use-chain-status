@@ -1,6 +1,6 @@
 {
   "name": "use-chain-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny (<5KB) real-time chain health & gas status hook and utility for EVM networks.",
   "repository": {
     "type": "git",
