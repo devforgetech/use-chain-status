@@ -20,12 +20,12 @@
 hook\
 to monitor:
 
-- 🟢 Chain health (healthy / slow / degraded / offline)\
-- ⛽ Base fee\
-- 💵 Gas price (optional)\
-- ⚡ Congestion level\
-- ⏱ Block time delay\
-- 🔢 Latest block number\
+- 🟢 Chain health (healthy / slow / degraded / offline)
+- ⛽ Base fee
+- 💵 Gas price (optional)
+- ⚡ Congestion level
+- ⏱ Block time delay
+- 🔢 Latest block number
 - 📈 Pending transactions (if supported)
 
 Perfect for dashboards, wallets, block explorers, DApps, and monitoring
