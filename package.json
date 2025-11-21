@@ -1,0 +1,40 @@
+{
+  "name": "use-chain-status",
+  "version": "1.0.0",
+  "description": "Tiny (<5KB) real-time chain health & gas status hook and utility for EVM networks.",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "web3",
+    "evm",
+    "chain",
+    "health",
+    "status",
+    "react",
+    "hook",
+    "ethereum"
+  ],
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "react": "^19.0.0",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.0.0"
+  },
+  "license": "MIT"
+}
